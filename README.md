@@ -1,5 +1,6 @@
-## Next.js App Router Course - Starter
+## Financial Dashboard - Next.js App Router
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This project is a **financial dashboard** built with Next.js, developed as part of my learning journey with the **Next.js App Router**.  
+It follows the free interactive course available at [nextjs.org/learn/dashboard-app](https://nextjs.org/learn/dashboard-app).  
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+The goal of this project is to explore and practice Next.js features such as the App Router, layouts, nested routes, and server-side rendering while building a real-world style dashboard.
